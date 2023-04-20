@@ -20,3 +20,6 @@ Assignments for **Artificial Intelligence Fundamentals** and **Data Mining** lab
 2. Pandas, Structuring Dataframes, Cleaning
 3. TF-IDF, Language Models, N-grams
 4. PoS tags, NER
+5. Web Scraping, Topic Modelling
+6. Sentiment Analysis
+7. EDA, Data Preprocessing, PCA
