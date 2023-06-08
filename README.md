@@ -23,3 +23,5 @@ Assignments for **Artificial Intelligence Fundamentals** and **Data Mining** lab
 5. Web Scraping, Topic Modelling
 6. Sentiment Analysis
 7. EDA, Data Preprocessing, PCA
+8. Supervised Learning
+9. Unsupervised Learning
